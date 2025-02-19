@@ -1,0 +1,8 @@
+students, assignment, submission status
+Faith, Shell init, submitted
+Kezia, Shell Navigation, submitted
+Sissy, Shell Basics, not submitted
+Fadhilla, Git, submitted
+John, Shell Script, not submitted
+Jason, Shell Navigation, not submitted
+Chris, Shell Basics, submitted
